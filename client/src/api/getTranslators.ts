@@ -4,8 +4,8 @@ export function getTranslators(search?: string) {
   return async (): Promise<Array<Translator>> => {
     const response = await fetch(
       search
-        ? `http://localhost:8000/translators?search=${search}`
-        : "http://localhost:8000/translators",
+        ? `${process.env.REACT_APP_API_URL}/translators?search=${search}`
+        : `${process.env.REACT_APP_API_URL}/translators`,
       {
         method: "GET",
         headers: {
