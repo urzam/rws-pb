@@ -1,7 +1,7 @@
 # Translators Application
 
-This is the translators testing project containing client and server part.
+This is the translators testing project.
 
 ## Getting Started
 
-Read README.md files both in client and server direcotry
+Read README files in client and server direcotries
