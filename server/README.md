@@ -17,7 +17,7 @@ What things you need to install the software and how to install them:
 
 A step by step series of examples that tell you how to get a development environment running:
 
-1. Clone the repository: `git clone https://github.com/username/repository.git`
+1. Clone the repository: `[git clone https://github.com/username/repository.git](https://github.com/urzam/rws-pb.git)`
 2. Navigate into the directory: `cd repository`
 3. Install dependencies: `npm install`
 4. Start the server: `npm start`
@@ -41,9 +41,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-- **Your Name** - _Initial work_ - [YourName](https://github.com/yourname)
-
-See also the list of [contributors](https://github.com/yourname/yourproject/contributors) who participated in this project.
+- **Peter Blaho** - _Initial work_ - (https://github.com/urzam/)
 
 ## License
 
